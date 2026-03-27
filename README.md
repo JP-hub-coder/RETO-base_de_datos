@@ -1,8 +1,9 @@
 # RETO-base_de_datos
 
-## Reto culminado para aprendizaje de manejo de base de datos
+--
+--
 
-## Código para usar 
+### Código
 ```SQL
 DROP TABLE IF EXISTS Clientes;
 DROP TABLE IF EXISTS Productos;
@@ -58,7 +59,7 @@ INSERT INTO Detalle_pedido VALUES (2, 1001, 102, 2);
 INSERT INTO Envios VALUES (5001, 1001, '2026-03-21');
 ```
 
-## Diagrama 
+## Diagrama ER
 
 <img width="1361" height="696" alt="image" src="https://github.com/user-attachments/assets/5c2bcebc-d5a9-4b1a-b9ba-0d1da611d156" />
 
